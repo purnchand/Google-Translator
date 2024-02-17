@@ -1,3 +1,3 @@
 # Google-Translator
 
-[It is a Online Google Translator Using Python]
+ This is a Online Google Translator Using Python
