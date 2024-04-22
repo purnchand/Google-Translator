@@ -1,6 +1,6 @@
 # Google-Translator
 
-This is a Online Google Translator Using Python.
+This is a Online Google Translator Project Using Python.
 
 The Advanced Language Translator Application is a powerful tool developed in Python, leveraging the Google Cloud Translation API to provide seamless and accurate language translation capabilities. Built with a user-friendly interface using Tkinter, this application empowers users to effortlessly translate text between multiple languages with ease and precision. By incorporating advanced JSON handling techniques, the application ensures efficient management and processing of translation data, enhancing overall performance and user experience.
 
